@@ -5,7 +5,7 @@
 
 ## 📌 Project Overview
 
-This project was developed as part of a case study for **Storio Group's new market entry strategy**, with the goal of building a data-driven pricing and promotional framework to achieve **10% market share within 3 years**.
+This project simulates a real-world business scenario for a European consumer photo book company planning to enter a new market, to build a data-driven pricing and promotional framework to achieve **10% market share within 3 years**.
 
 The analysis is split into two topics:
 
@@ -102,7 +102,7 @@ scipy
 
 ## 💡 Strategic Recommendations
 
-Based on the analysis, a **3-phase pricing glidepath** was recommended for Storio's market entry:
+Based on the analysis, a **3-phase pricing glidepath** was recommended for the company's market entry:
 
 **Phase 1 — Year 1: Entry & Disruption**
 - Penetration pricing 10–20% below competitors
@@ -125,7 +125,7 @@ Based on the analysis, a **3-phase pricing glidepath** was recommended for Stori
 
 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/pricing-demand-forecasting.git
+git clone https://github.com/kaur-analytics/pricing-demand-forecasting.git
 cd pricing-demand-forecasting
 ```
 
